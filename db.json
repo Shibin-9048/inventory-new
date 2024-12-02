@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "34b3",
+      "name": "apple",
+      "category": "fruits",
+      "price": "250",
+      "stock": "3",
+      "description": "dddd"
+    },
+    {
+      "id": "f951",
+      "name": "apple",
+      "category": "fruits",
+      "price": "250",
+      "stock": "3",
+      "description": "rtr"
+    }
+  ]
+}
